@@ -22,10 +22,10 @@ while (true) {
 ```
 
 ## Presence Sensor
-<img src=""/> (TODO)
+<img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
 ## Movement Sensor
-<img src="https://live.staticflickr.com/65535/53553690681_572c81a834_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ## Moisture Sensor
 <img src=""/> (TODO)
@@ -34,4 +34,4 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
 ## Bluetooth Speaker
-<img src=""/> (TODO)
+<img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
