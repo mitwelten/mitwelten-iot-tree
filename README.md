@@ -19,5 +19,16 @@ while (true) {
     graphBrick.addValue(moisture); // monitored by researcher
     waitForUpdate();
 }
-
 ```
+
+## Fader
+<img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5.jpg"/>
+
+## Presence
+<img src=""/> (TODO)
+
+## Movement
+<img src="https://live.staticflickr.com/65535/53553690681_572c81a834.jpg"/>
+
+## Speaker
+<img src=""/> (TODO)
