@@ -33,5 +33,8 @@ while (true) {
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
+## Sound Player
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+
 ## Bluetooth Speaker
 <img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
