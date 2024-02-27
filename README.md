@@ -21,14 +21,14 @@ while (true) {
 }
 ```
 
-## Fader
+## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5.jpg"/>
 
-## Presence
+## Presence Sensor
 <img src=""/> (TODO)
 
-## Movement
+## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53553690681_572c81a834.jpg"/>
 
-## Speaker
+## Bluetooth Speaker
 <img src=""/> (TODO)
