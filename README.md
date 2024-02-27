@@ -28,7 +28,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ## Moisture Sensor
-<img src="https://live.staticflickr.com/65535/53554462157_d64ecd4055_n.jpg"/> (TODO)
+<img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
