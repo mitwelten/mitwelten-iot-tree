@@ -11,7 +11,7 @@ while (true) {
     boolean presence = presenceBrick.isActive(); // triggered by neighbor
     boolean watering = movementBrick.isActive(); // triggered by neighbor
     int moisture = moistureBrick.getMoisture(); // changes when watering
-    int threshold = faderBrick.getPosition(); // adapted by researcher
+    int threshold = faderBrick.getPosition() * 10; // set by researcher
     if (presence && !watering && moisture < threshold) {
         soundBrick.play(SAMPLE_LAMENT, VOLUME_LOUD);
     } else if (presence && watering && moisture > threshold) {
