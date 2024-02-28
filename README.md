@@ -8,17 +8,17 @@ Based on [FHNW IoT Bricks](https://github.com/tamberg/fhnw-iot-bricks)
 ```Java
 ... // presence, movement, moisture, fader, sound and graph brick
 while (true) {
-    presence = presenceBrick.getValue(); // triggered by neighbor
-    watering = movementBrick.getValue(); // triggered by neighbor
-    moisture = moistureBrick.getValue(); // changes when watering
-    threshold = faderBrick.getValue(); // adapted by researcher
+    boolean presence = presenceBrick.isActive(); // triggered by neighbor
+    boolean watering = movementBrick.isActive(); // triggered by neighbor
+    int moisture = moistureBrick.getMoisture(); // changes when watering
+    int threshold = faderBrick.getPosition(); // adapted by researcher
     if (presence && !watering && moisture < threshold) {
-        soundBrick.play(Sample.Lamenting, Volume.LOUD);
+        soundBrick.play(SAMPLE_LAMENT, VOLUME_LOUD);
     } else if (presence && watering && moisture > threshold) {
-        soundBrick.play(Sample.ThankYou, Volume.NORMAL);
+        soundBrick.play(SAMPLE_THANK, VOLUME_NORMAL);
     }
     graphBrick.addValue(moisture); // monitored by researcher
-    waitForUpdate();
+    proxy.waitForUpdate();
 }
 ```
 
