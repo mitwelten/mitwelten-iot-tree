@@ -73,7 +73,7 @@ while (true) {
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619) (TBC)
-- [FeatherWing Mp3 Player](https://www.adafruit.com/product/3357)
+- [FeatherWing MP3 Player](https://www.adafruit.com/product/3357)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Bluetooth Speaker
