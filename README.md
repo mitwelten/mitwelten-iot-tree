@@ -26,10 +26,10 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
 ### Hardware
-- https://www.adafruit.com/product/3046 Feather HUZZAH ESP8266 w/ Stacking Headers
-- https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
-- Seeed Grove Ultrasonic Ranger
-- Li-Ion battery w/ holder
+- [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
+- [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
+- [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
@@ -38,6 +38,7 @@ while (true) {
 - Feather nRF52840 Sense
 - Stacking Headers
 - FeatherWing ESP32
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
@@ -46,6 +47,7 @@ while (true) {
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - Seeed Grove Soil Moisture Sensor
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
@@ -54,6 +56,7 @@ while (true) {
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - M5Stack Grove Fader
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
@@ -61,8 +64,7 @@ while (true) {
 ### Hardware
 - QT Py ESP32-S3
 - ...
-
-(TODO)
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
@@ -70,6 +72,7 @@ while (true) {
 ### Hardware
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - FeatherWing Mp3 Player
+- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Bluetooth Speaker
 <img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
