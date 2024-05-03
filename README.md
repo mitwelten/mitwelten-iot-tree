@@ -45,7 +45,7 @@ while (true) {
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
-- https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
+- [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - Seeed Grove Soil Moisture Sensor
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
@@ -54,8 +54,8 @@ while (true) {
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
-- https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
-- M5Stack Grove Fader
+- [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
+- [M5Stack Grove Fader](https://www.bastelgarage.ch/m5stack-fader-unit-with-potentiometer-and-rgb-lighting?search=m5stack%20fader)
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Graph Monitor
