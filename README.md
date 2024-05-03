@@ -65,6 +65,7 @@ while (true) {
 - [QT Py ESP32-S3](https://www.adafruit.com/product/5395)
 - [QT Py EYESPI BFF](https://www.adafruit.com/product/5772)
 - [EYESPI Cable 100 mm](https://www.adafruit.com/product/5239)
+- [240x240 px TFT LCD](https://www.adafruit.com/product/4313)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Sound Player
