@@ -46,7 +46,7 @@ while (true) {
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
-- Seeed Grove Soil Moisture Sensor
+- [Grove Soil Moisture Sensor](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Threshold Fader
