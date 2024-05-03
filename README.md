@@ -29,7 +29,7 @@ while (true) {
 - [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
-- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
@@ -38,7 +38,7 @@ while (true) {
 - [Feather nRF52840 Sense](https://www.adafruit.com/product/4516)
 - [Stacking Headers](https://www.adafruit.com/product/2830)
 - [FeatherWing AirLift ESP32](https://www.adafruit.com/product/4264)
-- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
@@ -47,7 +47,7 @@ while (true) {
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [Grove Soil Moisture Sensor](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
-- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
@@ -56,15 +56,16 @@ while (true) {
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [M5Stack Grove Fader](https://www.bastelgarage.ch/m5stack-fader-unit-with-potentiometer-and-rgb-lighting?search=m5stack%20fader)
-- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Hardware
-- QT Py ESP32-S3
-- ...
-- [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+- [QT Py ESP32-S3](https://www.adafruit.com/product/5395)
+- [QT Py EYESPI BFF](https://www.adafruit.com/product/5772)
+- [EYESPI Cable 100 mm](https://www.adafruit.com/product/5239)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
