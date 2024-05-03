@@ -36,7 +36,7 @@ while (true) {
 
 ### Hardware
 - [Feather nRF52840 Sense](https://www.adafruit.com/product/4516)
-- [Stacking Headers](https://www.adafruit.com/product/2830)
+- [Feather Female Headers](https://www.adafruit.com/product/2886)
 - [FeatherWing AirLift ESP32](https://www.adafruit.com/product/4264)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
