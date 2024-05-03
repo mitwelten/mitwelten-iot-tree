@@ -35,7 +35,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
 ## Graph Monitor
-(TODO)
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/> (TODO)
 
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
