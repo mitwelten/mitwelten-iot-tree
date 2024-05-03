@@ -79,4 +79,6 @@ while (true) {
 ## Bluetooth Speaker
 <img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
 
-- ...
+### Hardware
+- [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
+- [Ugreen 3.5 mm Jack Cable](https://www.digitec.ch/en/s1/product/ugreen-35mm-klinke-35mm-klinke-1-m-35mm-jack-aux-audio-cable-20685666)
