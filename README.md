@@ -35,16 +35,16 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Hardware
-- Feather nRF52840 Sense
-- Stacking Headers
-- FeatherWing ESP32
+- [Feather nRF52840 Sense](https://www.adafruit.com/product/4516)
+- [Stacking Headers](https://www.adafruit.com/product/2830)
+- [FeatherWing AirLift ESP32](https://www.adafruit.com/product/4264)
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
 ### Hardware
-- Feather ESP32 HUZZAH w/ Stacking Headers
+- [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - Seeed Grove Soil Moisture Sensor
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
@@ -53,7 +53,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
 ### Hardware
-- Feather ESP32 HUZZAH w/ Stacking Headers
+- [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - M5Stack Grove Fader
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
@@ -70,8 +70,8 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Hardware
-- Feather ESP32 HUZZAH w/ Stacking Headers
-- FeatherWing Mp3 Player
+- [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619) (TBC)
+- [FeatherWing Mp3 Player](https://www.adafruit.com/product/3357)
 - [3000 mAh 18650 Li-Ion battery w/ holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Bluetooth Speaker
