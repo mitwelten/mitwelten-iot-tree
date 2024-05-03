@@ -25,6 +25,7 @@ while (true) {
 ## Presence Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
+### Hardware
 - https://www.adafruit.com/product/3046 Feather HUZZAH ESP8266 w/ Stacking Headers
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - Seeed Grove Ultrasonic Ranger
@@ -33,6 +34,7 @@ while (true) {
 ## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
+### Hardware
 - Feather nRF52840 Sense
 - Stacking Headers
 - FeatherWing ESP32
@@ -40,6 +42,7 @@ while (true) {
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
+### Hardware
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - Seeed Grove Soil Moisture Sensor
@@ -47,6 +50,7 @@ while (true) {
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
+### Hardware
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - https://www.adafruit.com/product/5862 FeatherWing Grove Adapter
 - M5Stack Grove Fader
@@ -54,6 +58,7 @@ while (true) {
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
+### Hardware
 - QT Py ESP32-S3
 - ...
 
@@ -62,6 +67,7 @@ while (true) {
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
+### Hardware
 - Feather ESP32 HUZZAH w/ Stacking Headers
 - FeatherWing Mp3 Player
 
