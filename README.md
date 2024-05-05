@@ -53,7 +53,7 @@ while (true) {
 
 ### Software
 - [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
-- MoistureBrick.java
+- MoistureBrick.java (TODO)
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
