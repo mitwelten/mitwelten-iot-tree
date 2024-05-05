@@ -52,7 +52,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
 ### Software
-- [https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino](ESP32_MqttAnalogInputBrick.ino)
+- [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
