@@ -78,7 +78,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Software
-- ESP32S3_ST7789_GraphBrick.ino (TODO)
+- ESP32S3_ST7789_GraphDisplayBrick.ino (TODO)
 - GraphDisplayBrick.java (TODO)
 
 ### Hardware
