@@ -65,7 +65,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
 
 ### Software
-- [https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino](ESP32_MqttAnalogInputBrick.ino)
+- [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
 - FaderBrick.java (TODO)
 
 ### Hardware
