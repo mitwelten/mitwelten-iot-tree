@@ -25,6 +25,10 @@ while (true) {
 ## Presence Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
+### Software
+- [ESP8266_MqttDistanceBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDistanceBrick/ESP8266_MqttDistanceBrick.ino)
+- [DistanceBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/sensors/DistanceBrick.java)
+
 ### Hardware
 - [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
@@ -33,6 +37,10 @@ while (true) {
 
 ## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+
+### Software
+- nRF52840Sense_MovementBrick.ino (TODO)
+- MovementBrick.java (TODO)
 
 ### Hardware
 - [Feather nRF52840 Sense](https://www.adafruit.com/product/4516)
@@ -43,6 +51,9 @@ while (true) {
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
+### Software
+- [https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino](ESP32_MqttAnalogInputBrick.ino)
+
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
@@ -51,6 +62,10 @@ while (true) {
 
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
+
+### Software
+- [https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino](ESP32_MqttAnalogInputBrick.ino)
+- FaderBrick.java (TODO)
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619)
@@ -61,6 +76,10 @@ while (true) {
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
+### Software
+- ESP32S3_ST7789_GraphBrick.ino (TODO)
+- GraphDisplayBrick.java (TODO)
+
 ### Hardware
 - [QT Py ESP32-S3](https://www.adafruit.com/product/5395)
 - [QT Py EYESPI BFF](https://www.adafruit.com/product/5772)
@@ -70,6 +89,10 @@ while (true) {
 
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+
+### Software
+- ESP32_PlayerBrick.ino (TODO)
+- PlayerBrick.java (TODO)
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619) (TBC)
