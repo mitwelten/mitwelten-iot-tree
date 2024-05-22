@@ -92,8 +92,8 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Software
-- ESP32_PlayerBrick.ino (TODO)
-- PlayerBrick.java (TODO)
+- ESP32_SoundBrick.ino (TODO)
+- [SoundBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/actuators/SoundBrick.java)
 
 ### Hardware
 - [Feather ESP32 HUZZAH w/ Stacking Headers](https://www.adafruit.com/product/3619) (TBC)
