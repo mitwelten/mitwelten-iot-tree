@@ -21,7 +21,6 @@ while (true) {
     proxy.waitForUpdate();
 }
 ```
-## Barrel
 
 ## Fountain
 - [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
