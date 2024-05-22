@@ -22,18 +22,6 @@ while (true) {
 }
 ```
 
-## Fountain
-<img src="fountain.png">
-
-- [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
-- [Hand Pump](https://www.hornbach.de/p/stahlrohr-fasspumpe-pressol-srl-13012-16l-min/6388902/?sourceArt=6388903&trackArticleCrossType=se&url=6388902)
-
-## Watering Cans
-<img src="watering_can.png">
-
-- [Watering Can, 10L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne--10-l/p/6042776?trackingtoken=search%7Carea1%7CA%7CStandardkampagne%7Csearch_searchterm_related%7CST2P)
-- [Watering Can, 4L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne-kunststoff--4-l/p/6042772)
-
 ## Presence Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
@@ -118,3 +106,17 @@ while (true) {
 ### Hardware
 - [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
 - [Ugreen 3.5 mm Jack Cable](https://www.digitec.ch/en/s1/product/ugreen-35mm-klinke-35mm-klinke-1-m-35mm-jack-aux-audio-cable-20685666)
+
+## Watering Cans
+<img src="watering_can.png">
+
+### Material
+- [Watering Can, 10L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne--10-l/p/6042776?trackingtoken=search%7Carea1%7CA%7CStandardkampagne%7Csearch_searchterm_related%7CST2P)
+- [Watering Can, 4L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne-kunststoff--4-l/p/6042772)
+
+## Fountain
+<img src="fountain.png">
+
+### Material
+- [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
+- [Hand Pump](https://www.hornbach.de/p/stahlrohr-fasspumpe-pressol-srl-13012-16l-min/6388902/?sourceArt=6388903&trackArticleCrossType=se&url=6388902)
