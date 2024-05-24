@@ -105,7 +105,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Software
-- ESP32_SoundBrick.ino (TODO)
+- [ESP32_SoundBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttSoundBrick_VS1053/ESP32_MqttSoundBrick_VS1053.ino)
 - [SoundBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/actuators/SoundBrick.java)
 
 ### Hardware
