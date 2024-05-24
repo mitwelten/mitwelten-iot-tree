@@ -45,7 +45,7 @@ while (true) {
 ### Hardware
 - [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
-- [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [Grove Adjustable PIR Motion Sensor](https://www.seeedstudio.com/Grove-Adjustable-PIR-Motion-Sensor.html)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Movement Sensor
