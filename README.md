@@ -22,12 +22,25 @@ while (true) {
 }
 ```
 
-## Presence Sensor
+## Distance Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
 ### Software
 - [ESP8266_MqttDistanceBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDistanceBrick/ESP8266_MqttDistanceBrick.ino)
 - [DistanceBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/sensors/DistanceBrick.java)
+
+### Hardware
+- [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
+- [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
+- [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+
+## Presence Sensor
+<img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
+
+### Software
+- [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
+- [PresenceBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/sensors/PresenceBrick.java)
 
 ### Hardware
 - [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
