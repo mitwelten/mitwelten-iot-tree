@@ -36,7 +36,7 @@ while (true) {
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Presence Sensor
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
