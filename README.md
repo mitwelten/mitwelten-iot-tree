@@ -22,19 +22,7 @@ while (true) {
 }
 ```
 
-## Fountain
-<img src="fountain.png">
-
-- [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
-- [Hand Pump](https://www.hornbach.de/p/stahlrohr-fasspumpe-pressol-srl-13012-16l-min/6388902/?sourceArt=6388903&trackArticleCrossType=se&url=6388902)
-
-## Watering Cans
-<img src="watering_can.png">
-
-- [Watering Can, 10L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne--10-l/p/6042776?trackingtoken=search%7Carea1%7CA%7CStandardkampagne%7Csearch_searchterm_related%7CST2P)
-- [Watering Can, 4L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne-kunststoff--4-l/p/6042772)
-
-## Presence Sensor
+## Distance Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
 ### Software
@@ -45,6 +33,19 @@ while (true) {
 - [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
+- [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+
+## Presence Sensor
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>
+
+### Software
+- [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
+- [PresenceBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/sensors/PresenceBrick.java)
+
+### Hardware
+- [Feather HUZZAH ESP8266 w/ Stacking Headers](https://www.adafruit.com/product/3046)
+- [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
+- [Grove Adjustable PIR Motion Sensor](https://www.seeedstudio.com/Grove-Adjustable-PIR-Motion-Sensor.html)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ## Movement Sensor
@@ -90,7 +91,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Software
-- ESP32S3_ST7789_GraphDisplayBrick.ino (TODO)
+- ESP32S3_GraphDisplayBrick_ST7789.ino (TODO)
 - GraphDisplayBrick.java (TODO)
 
 ### Hardware
@@ -104,7 +105,7 @@ while (true) {
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
 ### Software
-- ESP32_SoundBrick.ino (TODO)
+- [ESP32_SoundBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttSoundBrick_VS1053/ESP32_MqttSoundBrick_VS1053.ino)
 - [SoundBrick.java](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Java/src/main/java/ch/fhnw/imvs/bricks/actuators/SoundBrick.java)
 
 ### Hardware
@@ -118,3 +119,17 @@ while (true) {
 ### Hardware
 - [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
 - [Ugreen 3.5 mm Jack Cable](https://www.digitec.ch/en/s1/product/ugreen-35mm-klinke-35mm-klinke-1-m-35mm-jack-aux-audio-cable-20685666)
+
+## Watering Cans
+<img src="watering_can.png">
+
+### Material
+- [Watering Can, 10L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne--10-l/p/6042776?trackingtoken=search%7Carea1%7CA%7CStandardkampagne%7Csearch_searchterm_related%7CST2P)
+- [Watering Can, 4L](https://www.jumbo.ch/de/gartenbau-technik/bewaesserung/giesskannen/oecoplan-giesskanne-kunststoff--4-l/p/6042772)
+
+## Fountain
+<img src="fountain.png">
+
+### Material
+- [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
+- [Hand Pump](https://www.hornbach.de/p/stahlrohr-fasspumpe-pressol-srl-13012-16l-min/6388902/?sourceArt=6388903&trackArticleCrossType=se&url=6388902)
