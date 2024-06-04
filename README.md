@@ -87,6 +87,9 @@ while (true) {
 - [M5Stack Grove Fader](https://www.bastelgarage.ch/m5stack-fader-unit-with-potentiometer-and-rgb-lighting?search=m5stack%20fader)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
+### Enclosure
+- [OpenScad/Fader](OpenScad/Fader)
+
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
