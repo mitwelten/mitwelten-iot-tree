@@ -35,6 +35,9 @@ while (true) {
 - [Grove Ultrasonic Ranger](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
+
 ## Presence Sensor
 <img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>
 
@@ -47,6 +50,9 @@ while (true) {
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [Grove Adjustable PIR Motion Sensor](https://www.seeedstudio.com/Grove-Adjustable-PIR-Motion-Sensor.html)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Movement Sensor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
@@ -61,6 +67,9 @@ while (true) {
 - [FeatherWing AirLift ESP32](https://www.adafruit.com/product/4264)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
+
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
 
@@ -73,6 +82,9 @@ while (true) {
 - [FeatherWing Grove Adapter](https://www.adafruit.com/product/5862)
 - [Grove Soil Moisture Sensor](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
+
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Threshold Fader
 <img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
@@ -88,6 +100,7 @@ while (true) {
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 - [FaderAdapter.stl](OpenScad/Fader/FaderAdapter.stl)
 
 ## Graph Monitor
@@ -104,6 +117,9 @@ while (true) {
 - [240x240 px TFT LCD](https://www.adafruit.com/product/4313)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
+
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
 
@@ -116,12 +132,18 @@ while (true) {
 - [FeatherWing MP3 Player](https://www.adafruit.com/product/3357)
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
+### Enclosure
+- [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
+
 ## Bluetooth Speaker
 <img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
 
 ### Hardware
 - [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
 - [Ugreen 3.5 mm Jack Cable](https://www.digitec.ch/en/s1/product/ugreen-35mm-klinke-35mm-klinke-1-m-35mm-jack-aux-audio-cable-20685666)
+
+### Enclosure
+- [AP10 Junction Box](https://new.abb.com/products/2TKA140002G1/ap10-junction-box-ip65)
 
 ## Watering Cans
 <img src="watering_can.png">
