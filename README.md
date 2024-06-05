@@ -144,6 +144,7 @@ while (true) {
 
 ### Enclosure
 - [AP10 Junction Box](https://new.abb.com/products/2TKA140002G1/ap10-junction-box-ip65)
+- [Hama_AP10Adapter](https://github.com/mitwelten/mitwelten-iot-hardware-poc/tree/main/OpenScad/Hama_AP10Adapter)
 
 ## Watering Cans
 <img src="watering_can.png">
