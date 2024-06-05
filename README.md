@@ -88,7 +88,7 @@ while (true) {
 - [3000 mAh 18650 Li-Ion Battery w/ Holder](https://www.bastelgarage.ch/solar-lipo/li-ion-akku-3000ma-18650-mit-schutzelektronik-und-stecker)
 
 ### Enclosure
-- [OpenScad/Fader](OpenScad/Fader)
+- [FaderAdapter.stl](OpenScad/Fader/FaderAdapter.stl)
 
 ## Graph Monitor
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
