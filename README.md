@@ -1,6 +1,6 @@
 # Mitwelten IoT Toolkit: Lamenting Tree
 
-Work in progress, see [project tasks](https://github.com/orgs/mitwelten/projects/29/views/1).
+Work in progress, see [project tasks](https://github.com/orgs/mitwelten/projects/29/views/1). Questions? Contact thomas.amberg@fhnw.ch
 
 ## Algorithm
 Based on [FHNW IoT Bricks](https://github.com/tamberg/fhnw-iot-bricks) inspired by [Botanicalls](https://www.botanicalls.com).
