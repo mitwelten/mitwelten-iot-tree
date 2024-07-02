@@ -3,7 +3,7 @@
 Work in progress, see [project tasks](https://github.com/orgs/mitwelten/projects/29/views/1).
 
 ## Algorithm
-Based on [FHNW IoT Bricks](https://github.com/tamberg/fhnw-iot-bricks)
+Based on [FHNW IoT Bricks](https://github.com/tamberg/fhnw-iot-bricks) inspired by [Botanicalls](https://www.botanicalls.com).
 
 ```Java
 ... // presence, movement, moisture, fader, sound and graph brick
