@@ -159,3 +159,12 @@ while (true) {
 ### Material
 - [Barrel, 120L](https://www.jumbo.ch/de/gartenbau-technik/werkzeug-geraete/abfall-behaelter/kunststoffbehaelter/faserplast-universalfass-blau--78--49-cm--120-l/p/3251409)
 - [Hand Pump](https://www.hornbach.de/p/stahlrohr-fasspumpe-pressol-srl-13012-16l-min/6388902/?sourceArt=6388903&trackArticleCrossType=se&url=6388902)
+
+## Lab test
+<img src="https://live.staticflickr.com/65535/53830403546_9ae7a283b5_n.jpg"/>
+
+- [Video "Hello, I need water!"](https://flickr.com/photos/tamberg/53830837560)
+- [Video "Lamenting threshold"](https://flickr.com/photos/tamberg/53830401296)
+
+## Field test
+TODO
