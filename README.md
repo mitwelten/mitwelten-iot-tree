@@ -41,7 +41,7 @@ while (true) {
 -->
 
 ## Presence Sensor
-<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834775276_9da95b3f91_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122329_9cea42029f_n.jpg"/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
@@ -57,7 +57,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Movement Sensor
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834773431_d78cb53d8e_n.jpg"/>
 
 ### Software
 - nRF52840Sense_MovementBrick.ino (TODO)
