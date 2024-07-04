@@ -89,7 +89,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Threshold Fader
-<img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834776666_9d63bbe92d_n.jpg"/>
 
 ### Software
 - [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
