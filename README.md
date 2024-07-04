@@ -22,6 +22,7 @@ while (true) {
 }
 ```
 
+<!--
 ## Distance Sensor
 <img src="https://live.staticflickr.com/65535/53555498743_8b6eb4584d_n.jpg"/>
 
@@ -37,10 +38,10 @@ while (true) {
 
 ### Enclosure
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
+-->
 
 ## Presence Sensor
-<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>
-<img src=""/>
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122329_9cea42029f_n.jpg"/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
