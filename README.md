@@ -40,6 +40,7 @@ while (true) {
 
 ## Presence Sensor
 <img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>
+<img src=""/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
@@ -72,6 +73,7 @@ while (true) {
 
 ## Moisture Sensor
 <img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53835122374_c5eb4564de_n.jpg"/>
 
 ### Software
 - [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
@@ -122,6 +124,7 @@ while (true) {
 
 ## Sound Player
 <img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53835026148_c6405fcb3a_n.jpg"/>
 
 ### Software
 - [ESP32_SoundBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttSoundBrick_VS1053/ESP32_MqttSoundBrick_VS1053.ino)
@@ -137,6 +140,7 @@ while (true) {
 
 ## Bluetooth Speaker
 <img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53835122174_0ce488c6b1_n.jpg"/>
 
 ### Hardware
 - [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
