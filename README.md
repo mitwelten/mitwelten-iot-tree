@@ -41,7 +41,7 @@ while (true) {
 -->
 
 ## Presence Sensor
-<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122329_9cea42029f_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53835122329_9cea42029f_n.jpg"/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
@@ -57,7 +57,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Movement Sensor
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834773431_d78cb53d8e_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53834773431_d78cb53d8e_n.jpg"/>
 
 ### Software
 - nRF52840Sense_MovementBrick.ino (TODO)
@@ -73,7 +73,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Moisture Sensor
-<img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122374_c5eb4564de_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555656209_ff78bec475_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53835122374_c5eb4564de_n.jpg"/>
 
 ### Software
 - [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
@@ -89,7 +89,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Threshold Fader
-<img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834776666_9d63bbe92d_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53553968229_bcbe7178f5_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53834776666_9d63bbe92d_n.jpg"/>
 
 ### Software
 - [ESP32_MqttAnalogInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttAnalogInputBrick/ESP32_MqttAnalogInputBrick.ino)
@@ -106,7 +106,7 @@ while (true) {
 - [FaderAdapter.stl](OpenScad/Fader/FaderAdapter.stl)
 
 ## Graph Monitor
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835026363_c442c6ff24_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53835026363_c442c6ff24_n.jpg"/>
 
 ### Software
 - ESP32S3_GraphDisplayBrick_ST7789.ino (TODO)
@@ -123,7 +123,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Sound Player
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835026148_c6405fcb3a_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53835026148_c6405fcb3a_n.jpg"/>
 
 ### Software
 - [ESP32_SoundBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP32_MqttSoundBrick_VS1053/ESP32_MqttSoundBrick_VS1053.ino)
@@ -138,7 +138,7 @@ while (true) {
 - [AP9 Junction Box](https://new.abb.com/products/2TKA140012G1/ap9-junction-box-ip65)
 
 ## Bluetooth Speaker
-<img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122174_0ce488c6b1_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53554443987_3a80bd852b_n.jpg"/>&nbsp;&nbsp;&nbsp;<img src="https://live.staticflickr.com/65535/53835122174_0ce488c6b1_n.jpg"/>
 
 ### Hardware
 - [Hama Bluetooth Speaker](https://www.digitec.ch/en/s1/product/hama-pocket-30-14-h-rechargeable-battery-operated-bluetooth-speakers-23952994)
