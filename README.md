@@ -169,7 +169,7 @@ while (true) {
 - [Video "Lamenting threshold"](https://flickr.com/photos/tamberg/53830401296)
 
 ## Field test
-<img src="https://live.staticflickr.com/65535/53835123074_24117ef51c_b.jpg"/>
+<img src="https://live.staticflickr.com/65535/53835123074_24117ef51c_z.jpg"/>
 
 - [Video "Hello, I need water!"](https://flickr.com/photos/tamberg/53833876647)
 - [Video "Watering PoV"](https://flickr.com/photos/tamberg/53835219525)
