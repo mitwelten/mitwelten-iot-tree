@@ -106,7 +106,7 @@ while (true) {
 - [FaderAdapter.stl](OpenScad/Fader/FaderAdapter.stl)
 
 ## Graph Monitor
-<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53555296771_a5093d1c30_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835026363_c442c6ff24_n.jpg"/>
 
 ### Software
 - ESP32S3_GraphDisplayBrick_ST7789.ino (TODO)
