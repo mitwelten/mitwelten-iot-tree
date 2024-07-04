@@ -41,7 +41,7 @@ while (true) {
 -->
 
 ## Presence Sensor
-<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53835122329_9cea42029f_n.jpg"/>
+<img src="https://live.staticflickr.com/65535/53765086033_b7b85a51e6_n.jpg"/>&nbsp;<img src="https://live.staticflickr.com/65535/53834775276_9da95b3f91_b.jpg"/>
 
 ### Software
 - [ESP8266_MqttDigitalInputBrick.ino](https://github.com/tamberg/fhnw-iot-bricks/blob/develop/Arduino/ESP8266_MqttDigitalInputBrick/ESP8266_MqttDigitalInputBrick.ino)
